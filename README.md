@@ -10,7 +10,7 @@ Developed by:
 * Stephen Tomkinson, @neonbunny9 on twitter
 * Matt Summers, matt dot summers at nccgroup dot com
 
-https://github.com/nccgroup/typofinder
+https://github.com/trhacknon/typofinder
 
 Released under AGPL see LICENSE for more information
 
@@ -22,7 +22,7 @@ You can buy a Software-as-a-Service version which more features here:
 Development Wiki
 -------------
 Some rough notes around the v2 architecture:
-* https://github.com/nccgroup/typofinder/wiki
+* https://github.com/trhacknon/typofinder/wiki
 
 Features
 -------------
